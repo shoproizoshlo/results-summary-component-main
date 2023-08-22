@@ -10,11 +10,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -34,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/shoproizoshlo/results-summary-component-main)
-- Live Site URL: [Add live site URL here](https://sue-results-summary-component-main.netlify.app/)
+- Solution URL: https://github.com/shoproizoshlo/results-summary-component-main
+- Live Site URL: https://sue-results-summary-component-main.netlify.app/
 
 ## My process
 
