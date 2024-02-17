@@ -43,6 +43,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://sue-brechko-front-end-dev.netlify.app/)
 - Frontend Mentor - [@shoproizoshlo](https://www.frontendmentor.io/profile/shoproizoshlo)
 - Twitter - [@suereact](https://www.twitter.com/suereact)
